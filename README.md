@@ -1,19 +1,26 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=Hey,%20I'm%20Sourabh%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26%20Full-Stack%20Systems&descAlignY=58&descSize=16&descColor=cbd5e1" width="100%"/>
+<div align="center">
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Applied+AI+%26+Full-Stack+Software+Engineer;Building+robust%2C+scalable+enterprise+solutions;Turning+raw+data+into+predictive+intelligence;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+TensorFlow" alt="Typing SVG"/>
-</p>
+# Sourabh Kumar
+### Software Engineer | Applied AI & Full-Stack Systems
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="460" alt="Coding Monkey"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sourabhsk0001.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-kumar-326087238/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhsk0047@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourabhsk0001)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Applied+AI+%26+Full-Stack+Software+Engineer;Building+robust%2C+scalable+enterprise+solutions;Turning+raw+data+into+predictive+intelligence;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+TensorFlow" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="460" alt="Coding Monkey"/>
 
 ---
 
-## About Me
+### About Me
+
+</div>
 
 > *"Engineering reliable systems at the intersection of full-stack architecture and applied machine learning."*
 
@@ -26,7 +33,11 @@ I am a Computer Science undergraduate at KIIT graduating in May 2027, focused on
 
 ---
 
-## Tech Stack
+<div align="center">
+
+### Tech Stack
+
+</div>
 
 **Languages & Core**
 
@@ -61,7 +72,11 @@ I am a Computer Science undergraduate at KIIT graduating in May 2027, focused on
 
 ---
 
-## Featured Projects
+<div align="center">
+
+### Featured Projects
+
+</div>
 
 - **Stockly — Inventory & Order Management Platform**
   - Next.js • TypeScript • Prisma • MongoDB • TanStack Query
@@ -77,7 +92,11 @@ I am a Computer Science undergraduate at KIIT graduating in May 2027, focused on
 
 ---
 
-## Current Technical Focus
+<div align="center">
+
+### Current Technical Focus
+
+</div>
 
 ```python
 focus_areas = {
