@@ -1,88 +1,87 @@
-<div align="center">
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=Hey,%20I'm%20Sourabh%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%26%20Full-Stack%20Systems&descAlignY=58&descSize=16&descColor=cbd5e1" width="100%"/>
 
-# Sourabh Kumar
-**Software Engineer | Applied AI & Full-Stack Systems**
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Applied+AI+%26+Full-Stack+Software+Engineer;Building+robust%2C+scalable+enterprise+solutions;Turning+raw+data+into+predictive+intelligence;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+TensorFlow" alt="Typing SVG"/>
+</p>
 
-[Portfolio](https://sourabhsk0001.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/sourabh-kumar-326087238/) • [Email](mailto:sourabhsk0047@gmail.com) • [GitHub](https://github.com/sourabhsk0001)
-
-B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology (KIIT), graduating May 2027.  
-Specializing in building reliable full-stack web platforms, data processing pipelines, and applied machine learning models.
-
----
-
-### About Me
-
-</div>
-
-- **Focus:** Engineering robust web applications, production-ready APIs, and machine learning solutions that solve concrete operational problems.
-- **Experience:** Practical experience delivering software solutions for enterprise workflows during traineeships at Steel Authority of India Limited (SAIL) and Central Coalfields Limited (CCL).
-- **Core Competencies:** Full-stack development, relational and document database modeling, state synchronization, data preprocessing, and model evaluation.
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="460" alt="Coding Monkey"/>
+</p>
 
 ---
 
-<div align="center">
+## About Me
 
-### Experience & Internships
+> *"Engineering reliable systems at the intersection of full-stack architecture and applied machine learning."*
 
-</div>
+I am a Computer Science undergraduate at KIIT graduating in May 2027, focused on building production-grade web applications, API integrations, and applied machine learning workflows.
 
-- **Summer Trainee — Warehouse Stock Inventory Management System**  
-  *Steel Authority of India Limited (SAIL), R&D Centre for Iron & Steel (RDCIS)* | *Jun 2026*
-  - Designed and deployed an enterprise-grade inventory platform unifying stock levels, vendor records, warehouse tracking, and client billing into a single interface.
-  - Implemented modular RESTful API endpoints using Next.js route handlers, TypeScript, and Prisma ORM backed by MongoDB to manage high-volume relational-style document transactions.
-  - Architected role-based access control (RBAC) schemas and custom dashboards tailored for system administrators, corporate clients, and suppliers to ensure strict permission boundaries.
-  - Improved real-time inventory visibility across distributed warehouse locations by eliminating manual reconciliation bottlenecks.
-
-- **Web Development Intern**  
-  *Central Coalfields Limited (CCL)* | *May 2024 – Jun 2024*
-  - Built and optimized responsive user-facing interfaces using semantic HTML5, modern CSS3 styling rules, and vanilla JavaScript.
-  - Resolved layout inconsistencies across varying viewports and desktop resolutions by developing structured, reusable component patterns.
-  - Collaborated with engineering teams to test cross-browser compatibility, ensuring smooth user interaction across internal company pages.
+- Traineeship experience at **Steel Authority of India Limited (SAIL, RDCIS)** building enterprise inventory systems
+- Front-end experience at **Central Coalfields Limited (CCL)** crafting responsive enterprise portals
+- Actively developing full-stack architectures and machine learning classification pipelines
+- Based in **India**
 
 ---
 
-<div align="center">
+## Tech Stack
 
-### Featured Projects
+**Languages & Core**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- **Stockly — Enterprise Inventory & Order Platform**  
-  *Tech:* Next.js, TypeScript, Prisma ORM, MongoDB, TanStack Query, Tailwind CSS
-  - Developed a comprehensive multi-tier inventory and order fulfillment management platform designed to replace fragmented legacy spreadsheets.
-  - Implemented TanStack Query for efficient server-state management, client-side caching, and optimistic updates across data-dense dashboards.
-  - Structured separate secure workflows for administrators, suppliers, and clients, including dynamic stock replenishment logs, invoice generation, and integrated checkout/shipping tracking.
+**Web & Backend**
 
-- **ICARDS — Cardiac Risk Prediction Platform**  
-  *Tech:* Python, TensorFlow, Scikit-learn, Pandas, NumPy
-  - Engineered an end-to-end medical risk estimation system predicting cardiovascular vulnerabilities based on multi-variate patient indicators.
-  - Built an automated data cleaning and feature engineering pipeline handling normalization, missing value imputation, and class distribution balancing.
-  - Trained, validated, and evaluated supervised classification models using Scikit-learn and TensorFlow, maximizing predictive recall for high-risk clinical profiles.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **Developer Portfolio & Monitoring Platform**  
-  *Tech:* Next.js, React, Tailwind CSS, Sentry, GitHub Pages
-  - Developed a personal digital showcase with a responsive layout, fast load times, and clean UI components.
-  - Integrated Sentry error monitoring and performance telemetry to detect runtime client exceptions and track web vitals in production.
+**Data & Machine Learning**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<div align="center">
+**Databases & DevOps**
 
-### Technical Toolkit
-
-</div>
-
-- **Programming Languages:** Python, TypeScript, JavaScript, C, C++, Java, SQL
-- **Web & Backend:** Next.js, React, Express.js, REST APIs, Tailwind CSS, HTML5, CSS3
-- **Databases & Tools:** MongoDB, MySQL, Prisma ORM, Docker, Git, GitHub
-- **Machine Learning & Data:** TensorFlow, Scikit-learn, OpenRouter API, Data Preprocessing, Model Evaluation
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### Connect
+- **Stockly — Inventory & Order Management Platform**
+  - Next.js • TypeScript • Prisma • MongoDB • TanStack Query
+  - Full-stack enterprise platform managing stock tracking, procurement, vendor records, and multi-tenant role-based dashboard operations.
 
-[Portfolio](https://sourabhsk0001.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/sourabh-kumar-326087238/) | [GitHub](https://github.com/sourabhsk0001) | [Email](mailto:sourabhsk0047@gmail.com)
+- **ICARDS — Cardiac Risk Prediction Platform**
+  - Python • TensorFlow • Scikit-learn • Pandas
+  - Clinical risk assessment application utilizing feature preprocessing pipelines and trained supervised models to identify cardiac vulnerabilities.
 
-</div>
+- **Developer Portfolio Platform**
+  - Next.js • React • Tailwind CSS • Sentry
+  - Minimalist project showcase with integrated error tracking and telemetry for client performance analysis.
+
+---
+
+## Current Technical Focus
+
+```python
+focus_areas = {
+    "Applied AI": ["LLM API orchestration", "Function calling", "RAG architectures"],
+    "System Design": ["Distributed caching", "Microservices", "Event-driven workflows"],
+    "Backend / Cloud": ["Docker containerization", "Database indexing", "CI/CD pipelines"],
+}
